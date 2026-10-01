@@ -1,0 +1,11 @@
+Fiscal_Year,Period_Type,Revenue_Cr,EBITDA_Cr,EBIT_Cr,PAT_Cr,EPS_INR,Gross_Margin,EBITDA_Margin,EBIT_Margin,PAT_Margin,CFO_Cr,Capex_Cr,FCF_Cr,UFCF_Cr,Cash_Cr,Borrowings_Cr,Gold_Loan_Cr,Lease_Cr,Net_Debt_incl_GoL_Leases_Cr,Inventory_Days,ROE,ROIC
+FY22A,Historical,=IS!C5,=IS!C14,=IS!C17,=IS!C27,=IS!C31,=IS!C9,=IS!C15,=IS!C18,=IS!C28,=CF!C17,=-CF!C19,=CF!C37,,=BS!C17,=BS!C25,=BS!C26,=BS!C27,=Schedules!C95,=Schedules!C8,,
+FY23A,Historical,=IS!D5,=IS!D14,=IS!D17,=IS!D27,=IS!D31,=IS!D9,=IS!D15,=IS!D18,=IS!D28,=CF!D17,=-CF!D19,=CF!D37,,=BS!D17,=BS!D25,=BS!D26,=BS!D27,=Schedules!D95,=Schedules!D8,=Schedules!D93,=Schedules!D94
+FY24A,Historical,=IS!E5,=IS!E14,=IS!E17,=IS!E27,=IS!E31,=IS!E9,=IS!E15,=IS!E18,=IS!E28,=CF!E17,=-CF!E19,=CF!E37,,=BS!E17,=BS!E25,=BS!E26,=BS!E27,=Schedules!E95,=Schedules!E8,=Schedules!E93,=Schedules!E94
+FY25A,Historical,=IS!F5,=IS!F14,=IS!F17,=IS!F27,=IS!F31,=IS!F9,=IS!F15,=IS!F18,=IS!F28,=CF!F17,=-CF!F19,=CF!F37,,=BS!F17,=BS!F25,=BS!F26,=BS!F27,=Schedules!F95,=Schedules!F8,=Schedules!F93,=Schedules!F94
+FY26A,Historical,=IS!G5,=IS!G14,=IS!G17,=IS!G27,=IS!G31,=IS!G9,=IS!G15,=IS!G18,=IS!G28,=CF!G17,=-CF!G19,=CF!G37,,=BS!G17,=BS!G25,=BS!G26,=BS!G27,=Schedules!G95,=Schedules!G8,=Schedules!G93,=Schedules!G94
+FY27E,Forecast,=IS!H5,=IS!H14,=IS!H17,=IS!H27,=IS!H31,=IS!H9,=IS!H15,=IS!H18,=IS!H28,=CF!H17,=-CF!H19,=CF!H37,=DCF!H29,=BS!H17,=BS!H25,=BS!H26,=BS!H27,=Schedules!H95,=Schedules!H8,=Schedules!H93,=Schedules!H94
+FY28E,Forecast,=IS!I5,=IS!I14,=IS!I17,=IS!I27,=IS!I31,=IS!I9,=IS!I15,=IS!I18,=IS!I28,=CF!I17,=-CF!I19,=CF!I37,=DCF!I29,=BS!I17,=BS!I25,=BS!I26,=BS!I27,=Schedules!I95,=Schedules!I8,=Schedules!I93,=Schedules!I94
+FY29E,Forecast,=IS!J5,=IS!J14,=IS!J17,=IS!J27,=IS!J31,=IS!J9,=IS!J15,=IS!J18,=IS!J28,=CF!J17,=-CF!J19,=CF!J37,=DCF!J29,=BS!J17,=BS!J25,=BS!J26,=BS!J27,=Schedules!J95,=Schedules!J8,=Schedules!J93,=Schedules!J94
+FY30E,Forecast,=IS!K5,=IS!K14,=IS!K17,=IS!K27,=IS!K31,=IS!K9,=IS!K15,=IS!K18,=IS!K28,=CF!K17,=-CF!K19,=CF!K37,=DCF!K29,=BS!K17,=BS!K25,=BS!K26,=BS!K27,=Schedules!K95,=Schedules!K8,=Schedules!K93,=Schedules!K94
+FY31E,Forecast,=IS!L5,=IS!L14,=IS!L17,=IS!L27,=IS!L31,=IS!L9,=IS!L15,=IS!L18,=IS!L28,=CF!L17,=-CF!L19,=CF!L37,=DCF!L29,=BS!L17,=BS!L25,=BS!L26,=BS!L27,=Schedules!L95,=Schedules!L8,=Schedules!L93,=Schedules!L94
